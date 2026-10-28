@@ -7,7 +7,7 @@ uvicorn[standard]==0.35.0
 
 # Strands Agent Framework
 # Using 1.14.0 for compatibility
-strands-agents==1.14.0
+strands-agents==1.48.0
 strands-agents-tools==0.2.3
 
 # AWS & Bedrock
